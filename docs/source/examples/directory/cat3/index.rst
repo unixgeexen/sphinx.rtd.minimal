@@ -11,6 +11,7 @@ Directory structure
 
 .. toctree::
    :maxdepth: 2
+   :glob:
    :caption: Contents:
 
    *

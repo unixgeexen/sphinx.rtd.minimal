@@ -5,10 +5,17 @@ Introduction
 ************
 This site provides a starter set for a sphinx/RST site.  It demonstrates various features providing code examples to be copied into your own site.  The Introduction chapter is a summary of `Sphinx RTD Tutorial <https://sphinx-rtd-tutorial.readthedocs.io/en/latest/sphinx-quickstart.html>`_ providing commands and other actions required to set up a site from scratch running through github into Read The Documents.
 
+HowTo
+*****
+
+* Clone locally
+   * git clone starter/sphinx.rtd.starter internal.sphinx.tw2
+
 Todo
 ****
 Tasks required to bring this starter site to a standard to be shared
 
+* Remove README.md - or make it generic
 * Summarise introduction notes from xxxxx to provide a short summary and link to the original
 * Document features used within this site
 * Clean make html errors
