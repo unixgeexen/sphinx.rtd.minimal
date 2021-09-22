@@ -3,26 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Examples for Sphinx/RST
-=======================
+Cat1
+==========
 
-Various examples of usage of Sphinx
+Directory structure
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   kroki
-   tables
-   templatepy
-   codesyntax
-   directory/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   *
+   */index
 

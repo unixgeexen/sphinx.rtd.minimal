@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Introduction to Starting and Deploying a Sphinx site to Read The Documents
-==========================================================================
+Starting and Deploying Sphinx to Read The Documents
+===================================================
 
-Introduction tutorial based on xxx
+Introduction tutorial based on Lyudmil Vladimirov's excellent introduction.
 
 
 .. toctree::

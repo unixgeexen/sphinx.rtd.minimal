@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Quick Guide and Starter site for Sphinx/Read The Docs
-=====================================================
+Guide and Starter site for Sphinx/Read The Docs
+===============================================
 
 Sphinx/RTD Tutorial
 
@@ -17,10 +17,3 @@ Sphinx/RTD Tutorial
    examples/index.rst
    introduction/index.rst
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
