@@ -3,27 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Examples for Sphinx/RST
+Snippets Example
 =======================
 
-Various examples of usage of Sphinx
+Main use case is education
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   kroki
-   tables
-   templatepy
-   codesyntax
-   directory/index
-   snippets/index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   main
 
