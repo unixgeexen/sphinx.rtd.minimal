@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Guide and Starter site for Sphinx/Read The Docs
-===============================================
+ProjectName
+==================
 
-Sphinx/RTD Tutorial
+ProjectName
 
 
 .. toctree::
@@ -14,6 +14,5 @@ Sphinx/RTD Tutorial
    :caption: Contents:
 
    notes
-   examples/index.rst
-   introduction/index.rst
+   category1/index.rst
 
