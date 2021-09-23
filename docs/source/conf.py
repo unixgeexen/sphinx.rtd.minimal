@@ -100,6 +100,9 @@ html_static_path = ['_static']
 #
 # html_sidebars = {}
 
+# Indexing
+html_use_index = True
+
 
 # -- Options for HTMLHelp output ---------------------------------------------
 

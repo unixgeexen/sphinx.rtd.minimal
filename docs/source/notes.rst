@@ -29,4 +29,10 @@ Tasks required to bring this starter site to a standard to be shared
         * mkdir NewDirectory
         * cp GenericIndex.rst NewDirectory/index.rst - update header
         * create required \*.rst files in NewDirectory
-
+* Tagging
+   * `Sphinx Index <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html?highlight=index#index-generating-markup>`_
+      * conf.py: html_use_index = True
+      * Content.rst: .. index:: BNF, grammar, syntax, notation # before item of interest
+      * could prefix index term with # to highlight tags
+   * Tag cloud - `Extension tagtoctree <https://pypi.org/project/sphinx-tagtoctree/>`_ 
+   * `Custom Sphinx tags directive <https://github.com/reinout/reinout.vanrees.org/blob/master/rvo/weblog.py>`_: .. tags:: python, django

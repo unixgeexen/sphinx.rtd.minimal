@@ -26,5 +26,7 @@ Code syntax examples
     * :ref:`modindex`
     * :ref:`search`
 
+.. index:: #code, #syntax, #indexing, #tags
+
 .. literalinclude:: index.rst
    :language: rst

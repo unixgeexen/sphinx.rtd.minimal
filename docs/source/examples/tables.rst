@@ -1,8 +1,32 @@
 Tables
 ======
-.. csv-table:: Frozen Delights!
-   :header: "Treat", "Quantity", "Description"
-   :widths: 15, 10, 30
 
-   "Albatross", 2.99, "On a stick!"
-   "Popcorn", 1.99, "Straight from the oven"
+CSV Table
+*********
+
+Source Code
+-----------
+
+.. literalinclude:: csv.table.snippet.rst
+   :language: rst
+
+Resultant Output
+----------------
+
+.. include:: csv.table.snippet.rst
+
+List Table
+**********
+
+Source Code
+-----------
+
+.. literalinclude:: list.table.snippet.rst 
+   :language: rst
+
+Resultant Output
+----------------
+
+.. include:: list.table.snippet.rst 
+
+
